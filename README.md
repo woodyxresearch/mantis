@@ -16,6 +16,14 @@ MANTIS scans new token launches, analyzes on-chain signals, evaluates narrative 
 - Paper trading engine
 - Live terminal dashboard
 
+Roadmap
+Robinhood Chain live scanner
+Grok API integration
+Web dashboard
+Backtesting
+Alerts
+Strategy presets
+
 ## Disclaimer
 
 This project is experimental software for research purposes.
