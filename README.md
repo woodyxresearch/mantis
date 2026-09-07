@@ -24,8 +24,5 @@ Backtesting
 Alerts
 Strategy presets
 
-## Disclaimer
 
-This project is experimental software for research purposes.
-Nothing in this repository is financial advice.
 <img width="1536" height="1024" alt="24c34305-3faf-44fe-80e7-c873adbb8e03" src="https://github.com/user-attachments/assets/abae96bb-2ce9-4f99-af3d-84c249e810e0" />
